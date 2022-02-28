@@ -1,2 +1,2 @@
-# Chess Game in C++ using Open Framework
+# Chess Game in C++ using Open Frameworks
 
