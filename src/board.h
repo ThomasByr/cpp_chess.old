@@ -1,5 +1,16 @@
 #pragma once
 
-#include "ofMain.h"
+#include <vector>
 
-class Board {};
+#include "ofMain.h"
+#include "piece.h"
+
+using namespace std;
+
+class Board {
+  public:
+    Board();
+
+  private:
+    vector<vector<Piece>> board;
+};

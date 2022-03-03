@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 
-const int WIDTH = 1024, HEIGHT = 800;
+const int WIDTH = 1200, HEIGHT = 800;
 
 class ofApp : public ofBaseApp {
 
